@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.04ae97ce.css",
-    "main.js": "/static/js/main.13d81f23.js",
-    "static/js/453.164bb008.chunk.js": "/static/js/453.164bb008.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.04ae97ce.css.map": "/static/css/main.04ae97ce.css.map",
-    "main.13d81f23.js.map": "/static/js/main.13d81f23.js.map",
-    "453.164bb008.chunk.js.map": "/static/js/453.164bb008.chunk.js.map"
+    "main.css": "/moms60thEraPublic/static/css/main.04ae97ce.css",
+    "main.js": "/moms60thEraPublic/static/js/main.adb5facc.js",
+    "static/js/453.164bb008.chunk.js": "/moms60thEraPublic/static/js/453.164bb008.chunk.js",
+    "static/media/logo.svg": "/moms60thEraPublic/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/moms60thEraPublic/index.html",
+    "main.04ae97ce.css.map": "/moms60thEraPublic/static/css/main.04ae97ce.css.map",
+    "main.adb5facc.js.map": "/moms60thEraPublic/static/js/main.adb5facc.js.map",
+    "453.164bb008.chunk.js.map": "/moms60thEraPublic/static/js/453.164bb008.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04ae97ce.css",
-    "static/js/main.13d81f23.js"
+    "static/js/main.adb5facc.js"
   ]
 }
